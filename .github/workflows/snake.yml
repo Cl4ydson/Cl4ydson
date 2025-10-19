@@ -19,27 +19,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Game
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Cl4ydson
           github_token: ${{ secrets.GH_TOKEN }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+        env:
+          SNAKE_SPEED: 200  # Velocidade em ms (quanto maior, mais lento)
 
-      - name: Show build status
-        run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-
-      - name: Deploy to GitHub Pages
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
