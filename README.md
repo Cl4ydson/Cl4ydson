@@ -204,11 +204,74 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 ## 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=automacao_faturamento&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/automacao_faturamento)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=sinistros-control&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/sinistros-control)
+<div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=simulador&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/simulador)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=automacao_whatsapp&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/automacao_whatsapp)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Automação de Faturamento</h3>
+      <div align="center">
+        <a href="https://github.com/Cl4ydson/automacao_faturamento" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=automacao_faturamento&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+        </a>
+        <p>
+          <a href="https://github.com/Cl4ydson/automacao_faturamento" target="_blank">
+            <img src="https://img.shields.io/badge/-Ver%20Projeto-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python • Automação • RPA</strong></p>
+        <p>Sistema completo de automação de processos de faturamento</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Controle de Sinistros</h3>
+      <div align="center">
+        <a href="https://github.com/Cl4ydson/sinistros-control" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=sinistros-control&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+        </a>
+        <p>
+          <a href="https://github.com/Cl4ydson/sinistros-control" target="_blank">
+            <img src="https://img.shields.io/badge/-Ver%20Projeto-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>React • SQL • API</strong></p>
+        <p>Plataforma de gestão e controle de sinistros</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎮 Simulador</h3>
+      <div align="center">
+        <a href="https://github.com/Cl4ydson/simulador" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=simulador&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+        </a>
+        <p>
+          <a href="https://github.com/Cl4ydson/simulador" target="_blank">
+            <img src="https://img.shields.io/badge/-Ver%20Projeto-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>React • JavaScript</strong></p>
+        <p>Simulador interativo desenvolvido em React</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💬 Automação WhatsApp</h3>
+      <div align="center">
+        <a href="https://github.com/Cl4ydson/automacao_whatsapp" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=automacao_whatsapp&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+        </a>
+        <p>
+          <a href="https://github.com/Cl4ydson/automacao_whatsapp" target="_blank">
+            <img src="https://img.shields.io/badge/-Ver%20Projeto-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python • Puppeteer • Bot</strong></p>
+        <p>Bot de automação para WhatsApp Web</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -230,10 +293,10 @@ Sempre em busca de conhecimento e atualização nas tecnologias mais relevantes:
 
 ## 🌟 Conquistas & Impacto
 
-- ✅ **4+ anos** transformando TI em valor de negócio
+- ✅ **4+ anos** transformando dados em valor de negócio
 - ✅ **Perfil único**: Gerente de TI com background em Finanças
-- ✅ **Foco principal**: Eficiência operacional e ROI comprovado
-- ✅ **Projetos**: Automação, IA, Cloud, BI e Transformação Digital
+- ✅ **Foco principal**: Eficiência operacional 
+- ✅ **Projetos**: Automação, IA, Cloud e BI
 - ✅ **Metodologia**: Ágil, orientado a resultados, data-driven
 - ✅ **Impacto**: Redução de custos e aumento de produtividade
 
