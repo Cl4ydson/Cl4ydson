@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Claydson Amaral
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gerente+de+Tecnologia+%26+Inova%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es;+4%2Banos+liderando+transforma%C3%A7%C3%A3o+digital;Apaixonado+por+IA+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gerente+de+Tecnologia+%26+Inova%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es;4%2B+anos+liderando+transforma%C3%A7%C3%A3o+digital;Apaixonado+por+IA+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <br/>
 
@@ -79,6 +79,8 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=ai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
@@ -160,7 +162,7 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
       <br/>
       <sub>Machine Learning • NLP</sub>
       <br/>
-      <sub>ChatGPT • Claude • LangChain</sub>
+      <sub>ChatGPT • Claude • DeepSeek</sub>
       <br/><br/>
     </td>
     <td align="center" width="25%">
@@ -224,7 +226,7 @@ Sempre em busca de conhecimento e atualização nas tecnologias mais relevantes:
 | Área | Tecnologias | Aplicação |
 |------|------------|-----------|
 | 🤖 **Automação & RPA** | Python, Selenium, Puppeteer | Otimização de processos operacionais |
-| 🧠 **AI & Machine Learning** | ChatGPT, Claude, LangChain | Soluções inteligentes para problemas reais |
+| 🧠 **AI & Machine Learning** | ChatGPT, Claude, DeepSeek | Soluções inteligentes para problemas reais |
 | ☁️ **Cloud Architecture** | AWS, Azure, Docker | Sistemas escaláveis e resilientes |
 | 📊 **Data Analytics** | Power BI, SQL, Python | Insights para decisões estratégicas |
 | 🔄 **Transformação Digital** | APIs, Microservices, DevOps | Modernização de sistemas legados |
