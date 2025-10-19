@@ -36,7 +36,7 @@ const claydson = {
 
 ## 📫 Vamos Conectar?
 
-- LinkedIn: [linkedin.com/in/claydsonamaral]([https://www.linkedin.com/in/claydson-cardozo/])
+- LinkedIn: [https://www.linkedin.com/in/claydson-cardozo/]
 - Email: cl4ydson.amaral@gmail.com
 
 ---
