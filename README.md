@@ -6,7 +6,7 @@
 
 <br/>
 
-**Gerente de Tecnologia e Inovação @ BR SAMOR**
+**Gerente de Tecnologia e Inovação @BR SAMOR**
 
 *Conectando objetivos de negócios com tecnologias inovadoras*
 
