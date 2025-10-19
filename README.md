@@ -1,44 +1,137 @@
-# Olá! 👋 Eu sou Claydson Amaral
+<div align="center">
+Mostrar Imagem
+</div>
+<div align="center">
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
 
-## 🚀 Sobre Mim
-
-Gerente de Tecnologia e Inovação na **BR SAMOR**, onde nos últimos quatro anos tenho liderado iniciativas que conectam objetivos de negócios com tecnologias inovadoras, com foco em eficiência, transformação e resultados mensuráveis.
-
-Minha formação é em **Finanças**, e sou apaixonado por aplicar tecnologias emergentes — como **automação**, **IA** e **nuvem** — para gerar impacto real nas organizações.
-
-## 💻 Stack Tecnológica
-
-```javascript
-const claydson = {
-  linguagens: ["JavaScript", "Python", "SQL"],
-  frontend: ["React"],
-  analytics: ["Power BI"],
-  foco: ["Automação", "IA", "Cloud Computing"],
-  paixão: "Transformar dados em decisões estratégicas"
+👨‍💼 Sobre Mim
+javascriptconst claydson = {
+    cargo: "Gerente de Tecnologia e Inovação",
+    empresa: "BR SAMOR",
+    experiência: "4+ anos liderando transformação digital",
+    formação: "Finanças",
+    missão: "Conectar objetivos de negócios com tecnologias inovadoras",
+    hobbies: ["Automação", "IA", "Cloud", "Café ☕"],
+    mantra: "Transformar dados em decisões estratégicas"
 };
-```
+🎯 Especialista em: Eficiência operacional, automação de processos, análise de dados e transformação digital
 
-### Tecnologias que utilizo:
+<div align="center">
+🛠️ Linguagens e Tecnologias
+💻 Principais Stacks
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+☁️ Cloud & DevOps
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+🗄️ Databases
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+🤖 IA & Automação
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<div align="center">
+📊 Estatísticas do GitHub
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claydsonamaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claydsonamaral&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+    </td>
+  </tr>
+</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=claydsonamaral&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=claydsonamaral&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
+</div>
 
-## 🎯 Áreas de Interesse
+🎯 Áreas de Expertise
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="60px"/>
+      <br/><sub><b>Automação de Processos</b></sub>
+      <br/><sub>RPA, Python, APIs</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="60px"/>
+      <br/><sub><b>Inteligência Artificial</b></sub>
+      <br/><sub>ML, NLP, ChatGPT</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width="60px"/>
+      <br/><sub><b>Cloud Computing</b></sub>
+      <br/><sub>AWS, Azure, GCP</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60px"/>
+      <br/><sub><b>Business Intelligence</b></sub>
+      <br/><sub>Power BI, SQL, Analytics</sub>
+    </td>
+  </tr>
+</table>
 
-- 🤖 Automação de processos
-- 🧠 Inteligência Artificial
-- ☁️ Cloud Computing
-- 📊 Análise de dados e BI
-- 🔄 Transformação digital
+🏆 Conquistas
+pythonclass GerenciaDeTI:
+    def __init__(self):
+        self.conquistas = {
+            "experiência": "4+ anos transformando tecnologia em resultados",
+            "formação_única": "Finanças + Tecnologia (combo raro!)",
+            "especialidade": "Conectar negócios e tecnologia",
+            "paixão": "Automação e otimização de processos",
+            "missão": "Gerar impacto real com tecnologias emergentes"
+        }
+    
+    def work_hard(self):
+        while True:
+            self.analisar_dados()
+            self.automatizar_processos()
+            self.implementar_ia()
+            self.inovar()
+            self.tomar_cafe() # ☕ Essencial!
 
-## 📫 Vamos Conectar?
+📈 Minha Jornada
+mermaidtimeline
+    title Transformação Digital na BR SAMOR
+    2020 : Início como Gerente de TI
+         : Implementação de primeiras automações
+    2021 : Expansão cloud
+         : Projetos de BI com Power BI
+    2022 : Integração de IA
+         : Otimização de processos críticos
+    2023 : Consolidação da inovação
+         : Liderança em transformação digital
+    2024 : Expansão de automações
+         : Projetos estratégicos com IA
 
-- LinkedIn: https://www.linkedin.com/in/claydson-cardozo/
-- Email: cl4ydson.amaral@gmail.com
+💡 Filosofia de Trabalho
 
----
+"Tecnologia é a ponte entre desafios complexos e soluções simples."
 
-💡 *"Tecnologia é a ponte entre desafios complexos e soluções simples."*
+<div align="center">
+🚀 Sempre em evolução
+Mostrar Imagem
+</div>
+
+<div align="center">
+📬 Entre em Contato
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+
+⭐ Se você gostou dos meus projetos, deixe uma estrela!
+Mostrar Imagem
+</div>
