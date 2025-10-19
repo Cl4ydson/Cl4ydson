@@ -59,9 +59,11 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -70,6 +72,7 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 IA & Automação
@@ -78,6 +81,8 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 ![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=ai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 </div>
 
@@ -202,192 +207,56 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 <div align="center">
 
-<div align="center">
-👋 Olá, eu sou Claydson Amaral
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gerente+de+Tecnologia+%26+Inova%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es;4%2B+anos+liderando+transforma%C3%A7%C3%A3o+digital;Apaixonado+por+IA+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
-<br/>
-Gerente de Tecnologia e Inovação @ BR SAMOR
-Conectando objetivos de negócios com tecnologias inovadoras
-<br/>
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
+## 📌 Projetos em Destaque
+
 </div>
 
-💼 Sobre Mim
-Sou Gerente de Tecnologia e Inovação com formação em Finanças, o que me proporciona uma visão única na interseção entre negócios e tecnologia.
-Nos últimos 4 anos, tenho liderado iniciativas focadas em:
-
-⚡ Eficiência operacional
-🔄 Transformação digital
-📊 Resultados mensuráveis
-💡 Inovação contínua
-
-Apaixonado por aplicar tecnologias emergentes — como automação, inteligência artificial e cloud computing — para gerar impacto real nas organizações.
-
-💡 "Tecnologia é a ponte entre desafios complexos e soluções simples"
-
-
-<div align="center">
-🛠️ Stack Tecnológica
-💻 Linguagens de Programação
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-🎨 Frontend
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-📊 Analytics & Business Intelligence
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-☁️ Cloud & DevOps
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-🗄️ Databases
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-🤖 IA & Automação
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-</div>
-
-<div align="center">
-📊 Estatísticas do GitHub
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cl4ydson&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cl4ydson&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-    </td>
-  </tr>
-</table>
-</div>
-
-<div align="center">
-📈 Atividade de Contribuições
-Mostrar Imagem
-Mostrar Imagem
-</div>
-
-<div align="center">
-🐍 Contribuições sendo devoradas...
-Mostrar Imagem
-</div>
-
-<div align="center">
-🏆 GitHub Trophies
-Mostrar Imagem
-</div>
-
-🎯 Áreas de Expertise
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <br/>
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="80px" height="80px"/>
-      <br/>
-      <sub><b>🤖 Automação de Processos</b></sub>
-      <br/>
-      <sub>RPA • APIs • Integrações</sub>
-      <br/>
-      <sub>Selenium • Puppeteer • Python</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="25%">
-      <br/>
-      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="80px" height="80px"/>
-      <br/>
-      <sub><b>🧠 Inteligência Artificial</b></sub>
-      <br/>
-      <sub>Machine Learning • NLP</sub>
-      <br/>
-      <sub>ChatGPT • Claude • DeepSeek</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="25%">
-      <br/>
-      <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width="80px" height="80px"/>
-      <br/>
-      <sub><b>☁️ Cloud Computing</b></sub>
-      <br/>
-      <sub>AWS • Azure • GCP</sub>
-      <br/>
-      <sub>Serverless • Docker • CI/CD</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="25%">
-      <br/>
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="80px" height="80px"/>
-      <br/>
-      <sub><b>📊 Business Intelligence</b></sub>
-      <br/>
-      <sub>Power BI • SQL • Analytics</sub>
-      <br/>
-      <sub>Dashboards • Data Viz • KPIs</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
-🚀 Minha Missão
-Conectar objetivos de negócios com soluções tecnológicas inovadoras, focando sempre em:
-
-⚡ Eficiência operacional - Automação de processos repetitivos
-🧠 Inteligência de dados - Transformar dados em insights acionáveis
-💡 Inovação constante - Aplicar IA e tecnologias emergentes
-☁️ Arquitetura moderna - Soluções escaláveis em cloud
-📊 Resultados mensuráveis - ROI comprovado em cada projeto
-🎯 Valor real - Impacto tangível no negócio
-
-
-<div align="center">
-📌 Projetos em Destaque
-</div>
-🤖 Automação de Faturamento
+### 🤖 Automação de Faturamento
 Sistema completo de automação de processos de faturamento, reduzindo tempo de processamento em até 80% através de RPA e integração com APIs.
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
 
-📊 Controle de Sinistros
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-FF6B6B?style=flat-square&logo=robot&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![API](https://img.shields.io/badge/API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cl4ydson/automacao_faturamento)
+
+---
+
+### 📊 Controle de Sinistros
 Plataforma completa de gestão e controle de sinistros com interface moderna, dashboards em tempo real e banco de dados robusto para análise de indicadores.
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
 
-🎮 Simulador Interativo
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cl4ydson/sinistros-control)
+
+---
+
+### 🎮 Simulador Interativo
 Aplicação web interativa desenvolvida em React para simulações e cálculos dinâmicos com interface responsiva e experiência de usuário otimizada.
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
 
-💬 Automação WhatsApp
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cl4ydson/simulador)
+
+---
+
+### 💬 Automação WhatsApp
 Bot de automação para WhatsApp Web com Puppeteer e Playwright, permitindo envio massivo de mensagens, agendamentos e automação de tarefas repetitivas.
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cl4ydson/automacao_whatsapp)
+
 ---
 
 ## 🎓 Evolução Contínua
@@ -406,10 +275,10 @@ Sempre em busca de conhecimento e atualização nas tecnologias mais relevantes:
 
 ## 🌟 Conquistas & Impacto
 
-- ✅ **4+ anos** transformando dados em valor de negócio
+- ✅ **4+ anos** transformando TI em valor de negócio
 - ✅ **Perfil único**: Gerente de TI com background em Finanças
-- ✅ **Foco principal**: Eficiência operacional 
-- ✅ **Projetos**: Automação, IA, Cloud e BI
+- ✅ **Foco principal**: Eficiência operacional e ROI comprovado
+- ✅ **Projetos**: Automação, IA, Cloud, BI e Transformação Digital
 - ✅ **Metodologia**: Ágil, orientado a resultados, data-driven
 - ✅ **Impacto**: Redução de custos e aumento de produtividade
 
