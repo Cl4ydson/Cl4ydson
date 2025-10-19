@@ -266,7 +266,7 @@ Sempre em busca de conhecimento e atualização nas tecnologias mais relevantes:
 
 ## 🌟 Conquistas & Impacto
 
-- ✅ **4+ anos** transformando TI em valor de negócio
+- ✅ **4+ anos** transformando dados em valor de negócio
 - ✅ **Perfil único**: Gerente de TI com background em Finanças
 - ✅ **Foco principal**: Eficiência operacional 
 - ✅ **Projetos**: Automação, IA, Cloud e BI
