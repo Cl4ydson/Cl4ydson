@@ -24,22 +24,17 @@
 
 ## 💼 Sobre Mim
 
-```javascript
-const claydson = {
-    cargo: "Gerente de Tecnologia e Inovação",
-    empresa: "BR SAMOR",
-    experiência: "4+ anos liderando transformação digital",
-    formação: "Finanças",
-    especialidade: "Conectar negócios e tecnologia",
-    missão: "Gerar impacto real com eficiência e inovação",
-    paixão: ["Automação", "IA", "Cloud Computing", "Análise de Dados"],
-    filosofia: "Tecnologia é a ponte entre desafios complexos e soluções simples"
-};
-```
+Sou **Gerente de Tecnologia e Inovação** com formação em **Finanças**, o que me proporciona uma visão única na interseção entre negócios e tecnologia. 
 
-Sou Gerente de Tecnologia e Inovação com formação em **Finanças**, o que me proporciona uma visão única na interseção entre negócios e tecnologia. Nos últimos quatro anos, tenho liderado iniciativas focadas em **eficiência operacional**, **transformação digital** e **resultados mensuráveis**.
+Nos últimos **4 anos**, tenho liderado iniciativas focadas em:
+- ⚡ **Eficiência operacional**
+- 🔄 **Transformação digital**
+- 📊 **Resultados mensuráveis**
+- 💡 **Inovação contínua**
 
 Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteligência artificial** e **cloud computing** — para gerar impacto real nas organizações.
+
+> 💡 *"Tecnologia é a ponte entre desafios complexos e soluções simples"*
 
 ---
 
@@ -195,40 +190,16 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 ---
 
-## 🚀 O que eu faço (e adoro fazer!)
+## 🚀 Minha Missão
 
-```python
-class GerenciaDeTI:
-    def __init__(self):
-        self.nome = "Claydson Amaral"
-        self.papel = "Gerente de Tecnologia e Inovação"
-        self.experiencia = "4+ anos"
-        self.formacao = "Finanças"
-        
-    def trabalho_diario(self):
-        tarefas = [
-            "☕ Tomar café (essencial!)",
-            "🤖 Automatizar processos repetitivos",
-            "📊 Analisar dados e gerar insights",
-            "🧠 Implementar soluções com IA",
-            "☁️ Arquitetar sistemas em cloud",
-            "💡 Inovar e otimizar continuamente",
-            "📚 Aprender novas tecnologias",
-            "🎯 Entregar valor real ao negócio"
-        ]
-        return tarefas
-    
-    def filosofia(self):
-        return "Tecnologia é a ponte entre desafios complexos e soluções simples"
+**Conectar objetivos de negócios com soluções tecnológicas inovadoras**, focando sempre em:
 
-    def superpoderes(self):
-        return {
-            "visao_hibrida": "Finanças + Tecnologia",
-            "foco": "Eficiência e resultados mensuráveis",
-            "especialidade": "Conectar negócios e tech",
-            "paixao": "Resolver problemas reais"
-        }
-```
+- ⚡ **Eficiência operacional** - Automação de processos repetitivos
+- 🧠 **Inteligência de dados** - Transformar dados em insights acionáveis
+- 💡 **Inovação constante** - Aplicar IA e tecnologias emergentes
+- ☁️ **Arquitetura moderna** - Soluções escaláveis em cloud
+- 📊 **Resultados mensuráveis** - ROI comprovado em cada projeto
+- 🎯 **Valor real** - Impacto tangível no negócio
 
 ---
 
@@ -236,51 +207,48 @@ class GerenciaDeTI:
 
 ## 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=Cl4ydson&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/Cl4ydson)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=automacao_faturamento&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/automacao_faturamento)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=sinistros-control&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/sinistros-control)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=simulador&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/simulador)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=automacao_whatsapp&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Cl4ydson/automacao_whatsapp)
 
 </div>
 
 ---
 
-## 🎓 Aprendizado Contínuo
+## 🎓 Evolução Contínua
 
-Sempre buscando evoluir e me manter atualizado com as últimas tecnologias:
+Sempre em busca de conhecimento e atualização nas tecnologias mais relevantes:
 
-- 🔄 **Transformação Digital** - Modernização de processos e sistemas legados
-- 🤖 **RPA & Automação** - Otimização de processos operacionais
-- 🧠 **AI & Machine Learning** - Aplicação prática de IA em problemas de negócio
-- ☁️ **Cloud Architecture** - Soluções escaláveis e resilientes
-- 📊 **Data Analytics** - Transformação de dados em decisões estratégicas
+| Área | Tecnologias | Aplicação |
+|------|------------|-----------|
+| 🤖 **Automação & RPA** | Python, Selenium, Puppeteer | Otimização de processos operacionais |
+| 🧠 **AI & Machine Learning** | ChatGPT, Claude, LangChain | Soluções inteligentes para problemas reais |
+| ☁️ **Cloud Architecture** | AWS, Azure, Docker | Sistemas escaláveis e resilientes |
+| 📊 **Data Analytics** | Power BI, SQL, Python | Insights para decisões estratégicas |
+| 🔄 **Transformação Digital** | APIs, Microservices, DevOps | Modernização de sistemas legados |
 
 ---
 
-## 💭 Minhas Convicções
+## 🌟 Conquistas & Impacto
+
+- ✅ **4+ anos** transformando TI em valor de negócio
+- ✅ **Perfil único**: Gerente de TI com background em Finanças
+- ✅ **Foco principal**: Eficiência operacional e ROI comprovado
+- ✅ **Projetos**: Automação, IA, Cloud, BI e Transformação Digital
+- ✅ **Metodologia**: Ágil, orientado a resultados, data-driven
+- ✅ **Impacto**: Redução de custos e aumento de produtividade
+
+---
+
+## 💭 Filosofia de Trabalho
 
 > **"A melhor tecnologia é aquela que resolve problemas reais e gera valor mensurável."**
 
 > **"Automação não é sobre substituir pessoas, é sobre liberar tempo para focarmos no que realmente importa."**
 
 > **"Dados sem análise são apenas números. Análise sem ação é apenas informação. Ação com impacto é transformação."**
-
----
-
-<div align="center">
-
-## 🌟 Conquistas & Impacto
-
-```javascript
-const minhasConquistas = {
-    experiencia: "4+ anos transformando TI em valor de negócio",
-    perfil_unico: "Gerente de TI com background em Finanças",
-    foco_principal: "Eficiência operacional e ROI comprovado",
-    projetos: "Automação, IA, Cloud, BI e Transformação Digital",
-    metodologia: "Ágil, orientado a resultados, data-driven",
-    impacto: "Redução de custos e aumento de produtividade"
-};
-```
-
-</div>
 
 ---
 
@@ -302,6 +270,6 @@ Sempre aberto para discutir **tecnologia**, **inovação**, **automação** e **
 
 ---
 
-⭐ Se você gostou do meu perfil ou dos meus projetos, deixe uma estrela!
+⭐ **Se você gostou do meu perfil ou dos meus projetos, deixe uma estrela!**
 
 </div>
