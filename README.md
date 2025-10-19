@@ -72,6 +72,16 @@ Apaixonado por aplicar **automação**, **IA** e **cloud computing** para gerar 
 
 ---
 
+## 🐍 Contribuições sendo devoradas...
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/claydsonamaral/claydsonamaral/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🎯 Áreas de Atuação
 
 - 🤖 **Automação de Processos** - RPA, APIs, integrações
