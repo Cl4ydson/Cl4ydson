@@ -4,7 +4,7 @@
   
   **Gerente de Tecnologia e Inovação @ BR SAMOR**
   
-  *Transformando desafios de negócios em soluções tecnológicas há 4+ anos*
+  *Transformando desafios de negócios em soluções tecnológicas há +4 anos*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claydson-cardozo/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cl4ydson.amaral@gmail.com)
@@ -41,7 +41,6 @@ Apaixonado por aplicar **automação**, **IA** e **cloud computing** para gerar 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -49,7 +48,7 @@ Apaixonado por aplicar **automação**, **IA** e **cloud computing** para gerar 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 </div>
 
