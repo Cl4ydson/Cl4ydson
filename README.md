@@ -82,7 +82,7 @@ Apaixonado por aplicar **automação**, **IA** e **cloud computing** para gerar 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Cl4ydson/Cl4ydson/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Cl4ydson/Cl4ydson/output/github-snake-dark.svg)
 
 </div>
 
