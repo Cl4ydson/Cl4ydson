@@ -202,37 +202,192 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 <div align="center">
 
-📌 Projetos em Destaque
+<div align="center">
+👋 Olá, eu sou Claydson Amaral
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gerente+de+Tecnologia+%26+Inova%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es;4%2B+anos+liderando+transforma%C3%A7%C3%A3o+digital;Apaixonado+por+IA+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+<br/>
+Gerente de Tecnologia e Inovação @ BR SAMOR
+Conectando objetivos de negócios com tecnologias inovadoras
+<br/>
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
+
+💼 Sobre Mim
+Sou Gerente de Tecnologia e Inovação com formação em Finanças, o que me proporciona uma visão única na interseção entre negócios e tecnologia.
+Nos últimos 4 anos, tenho liderado iniciativas focadas em:
+
+⚡ Eficiência operacional
+🔄 Transformação digital
+📊 Resultados mensuráveis
+💡 Inovação contínua
+
+Apaixonado por aplicar tecnologias emergentes — como automação, inteligência artificial e cloud computing — para gerar impacto real nas organizações.
+
+💡 "Tecnologia é a ponte entre desafios complexos e soluções simples"
+
+
+<div align="center">
+🛠️ Stack Tecnológica
+💻 Linguagens de Programação
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+🎨 Frontend
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+📊 Analytics & Business Intelligence
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+☁️ Cloud & DevOps
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+🗄️ Databases
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+🤖 IA & Automação
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
+
+<div align="center">
+📊 Estatísticas do GitHub
 <table>
-<tr>
-<td width="50%">
-🤖 Automação de Faturamento
-Sistema completo de automação de processos de faturamento desenvolvido em Python, utilizando RPA e integração com APIs.
-Tecnologias: Python RPA SQL Server APIs
-Mostrar Imagem
-</td>
-<td width="50%">
-📊 Controle de Sinistros
-Plataforma completa de gestão e controle de sinistros com interface moderna e banco de dados robusto.
-Tecnologias: React SQL Server FastAPI Power BI
-Mostrar Imagem
-</td>
-</tr>
-<tr>
-<td width="50%">
-🎮 Simulador Interativo
-Aplicação web interativa desenvolvida em React para simulações e cálculos dinâmicos.
-Tecnologias: React JavaScript CSS3 HTML5
-Mostrar Imagem
-</td>
-<td width="50%">
-💬 Automação WhatsApp
-Bot de automação para WhatsApp Web com Puppeteer, permitindo envio de mensagens e automação de tarefas.
-Tecnologias: Python Puppeteer Selenium Playwright
-Mostrar Imagem
-</td>
-</tr>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cl4ydson&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cl4ydson&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+    </td>
+  </tr>
 </table>
+</div>
+
+<div align="center">
+📈 Atividade de Contribuições
+Mostrar Imagem
+Mostrar Imagem
+</div>
+
+<div align="center">
+🐍 Contribuições sendo devoradas...
+Mostrar Imagem
+</div>
+
+<div align="center">
+🏆 GitHub Trophies
+Mostrar Imagem
+</div>
+
+🎯 Áreas de Expertise
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="80px" height="80px"/>
+      <br/>
+      <sub><b>🤖 Automação de Processos</b></sub>
+      <br/>
+      <sub>RPA • APIs • Integrações</sub>
+      <br/>
+      <sub>Selenium • Puppeteer • Python</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="80px" height="80px"/>
+      <br/>
+      <sub><b>🧠 Inteligência Artificial</b></sub>
+      <br/>
+      <sub>Machine Learning • NLP</sub>
+      <br/>
+      <sub>ChatGPT • Claude • DeepSeek</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width="80px" height="80px"/>
+      <br/>
+      <sub><b>☁️ Cloud Computing</b></sub>
+      <br/>
+      <sub>AWS • Azure • GCP</sub>
+      <br/>
+      <sub>Serverless • Docker • CI/CD</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="80px" height="80px"/>
+      <br/>
+      <sub><b>📊 Business Intelligence</b></sub>
+      <br/>
+      <sub>Power BI • SQL • Analytics</sub>
+      <br/>
+      <sub>Dashboards • Data Viz • KPIs</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+🚀 Minha Missão
+Conectar objetivos de negócios com soluções tecnológicas inovadoras, focando sempre em:
+
+⚡ Eficiência operacional - Automação de processos repetitivos
+🧠 Inteligência de dados - Transformar dados em insights acionáveis
+💡 Inovação constante - Aplicar IA e tecnologias emergentes
+☁️ Arquitetura moderna - Soluções escaláveis em cloud
+📊 Resultados mensuráveis - ROI comprovado em cada projeto
+🎯 Valor real - Impacto tangível no negócio
+
+
+<div align="center">
+📌 Projetos em Destaque
+</div>
+🤖 Automação de Faturamento
+Sistema completo de automação de processos de faturamento, reduzindo tempo de processamento em até 80% através de RPA e integração com APIs.
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+
+📊 Controle de Sinistros
+Plataforma completa de gestão e controle de sinistros com interface moderna, dashboards em tempo real e banco de dados robusto para análise de indicadores.
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+
+🎮 Simulador Interativo
+Aplicação web interativa desenvolvida em React para simulações e cálculos dinâmicos com interface responsiva e experiência de usuário otimizada.
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+
+💬 Automação WhatsApp
+Bot de automação para WhatsApp Web com Puppeteer e Playwright, permitindo envio massivo de mensagens, agendamentos e automação de tarefas repetitivas.
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
 ---
 
 ## 🎓 Evolução Contínua
