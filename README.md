@@ -202,79 +202,37 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 <div align="center">
 
-## 📌 Projetos em Destaque
-
-<div align="center">
-
+📌 Projetos em Destaque
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Automação de Faturamento</h3>
-      <div align="center">
-        <a href="https://github.com/Cl4ydson/automacao_faturamento" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=automacao_faturamento&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-        </a>
-        <p>
-          <a href="https://github.com/Cl4ydson/automacao_faturamento" target="_blank">
-            <img src="https://img.shields.io/badge/-Ver%20Projeto-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python • Automação • RPA</strong></p>
-        <p>Sistema completo de automação de processos de faturamento</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Controle de Sinistros</h3>
-      <div align="center">
-        <a href="https://github.com/Cl4ydson/sinistros-control" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=sinistros-control&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-        </a>
-        <p>
-          <a href="https://github.com/Cl4ydson/sinistros-control" target="_blank">
-            <img src="https://img.shields.io/badge/-Ver%20Projeto-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>React • SQL • API</strong></p>
-        <p>Plataforma de gestão e controle de sinistros</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎮 Simulador</h3>
-      <div align="center">
-        <a href="https://github.com/Cl4ydson/simulador" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=simulador&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-        </a>
-        <p>
-          <a href="https://github.com/Cl4ydson/simulador" target="_blank">
-            <img src="https://img.shields.io/badge/-Ver%20Projeto-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>React • JavaScript</strong></p>
-        <p>Simulador interativo desenvolvido em React</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💬 Automação WhatsApp</h3>
-      <div align="center">
-        <a href="https://github.com/Cl4ydson/automacao_whatsapp" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cl4ydson&repo=automacao_whatsapp&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-        </a>
-        <p>
-          <a href="https://github.com/Cl4ydson/automacao_whatsapp" target="_blank">
-            <img src="https://img.shields.io/badge/-Ver%20Projeto-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python • Puppeteer • Bot</strong></p>
-        <p>Bot de automação para WhatsApp Web</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+🤖 Automação de Faturamento
+Sistema completo de automação de processos de faturamento desenvolvido em Python, utilizando RPA e integração com APIs.
+Tecnologias: Python RPA SQL Server APIs
+Mostrar Imagem
+</td>
+<td width="50%">
+📊 Controle de Sinistros
+Plataforma completa de gestão e controle de sinistros com interface moderna e banco de dados robusto.
+Tecnologias: React SQL Server FastAPI Power BI
+Mostrar Imagem
+</td>
+</tr>
+<tr>
+<td width="50%">
+🎮 Simulador Interativo
+Aplicação web interativa desenvolvida em React para simulações e cálculos dinâmicos.
+Tecnologias: React JavaScript CSS3 HTML5
+Mostrar Imagem
+</td>
+<td width="50%">
+💬 Automação WhatsApp
+Bot de automação para WhatsApp Web com Puppeteer, permitindo envio de mensagens e automação de tarefas.
+Tecnologias: Python Puppeteer Selenium Playwright
+Mostrar Imagem
+</td>
+</tr>
 </table>
-
-</div>
-
 ---
 
 ## 🎓 Evolução Contínua
