@@ -211,7 +211,7 @@ Apaixonado por aplicar tecnologias emergentes — como **automação**, **inteli
 
 </div>
 
-### 🤖 Automação de Faturamento
+### 💰 Automação de Faturamento
 Sistema completo de automação de processos de faturamento, reduzindo tempo de processamento em até 80% através de RPA e integração com APIs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -229,13 +229,12 @@ Plataforma completa de gestão e controle de sinistros com interface moderna, da
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 [![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cl4ydson/sinistros-control)
 
 ---
 
-### 🎮 Simulador Interativo
+### ✈️ Simulador Interativo
 Aplicação web interativa desenvolvida em React para simulações e cálculos dinâmicos com interface responsiva e experiência de usuário otimizada.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -247,13 +246,11 @@ Aplicação web interativa desenvolvida em React para simulações e cálculos d
 
 ---
 
-### 💬 Automação WhatsApp
+### 🤖 Automação WhatsApp
 Bot de automação para WhatsApp Web com Puppeteer e Playwright, permitindo envio massivo de mensagens, agendamentos e automação de tarefas repetitivas.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 [![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cl4ydson/automacao_whatsapp)
 
@@ -277,8 +274,8 @@ Sempre em busca de conhecimento e atualização nas tecnologias mais relevantes:
 
 - ✅ **4+ anos** transformando TI em valor de negócio
 - ✅ **Perfil único**: Gerente de TI com background em Finanças
-- ✅ **Foco principal**: Eficiência operacional e ROI comprovado
-- ✅ **Projetos**: Automação, IA, Cloud, BI e Transformação Digital
+- ✅ **Foco principal**: Eficiência operacional 
+- ✅ **Projetos**: Automação, IA, Cloud e BI
 - ✅ **Metodologia**: Ágil, orientado a resultados, data-driven
 - ✅ **Impacto**: Redução de custos e aumento de produtividade
 
