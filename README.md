@@ -60,6 +60,18 @@ Apaixonado por aplicar **automação**, **IA** e **cloud computing** para gerar 
 
 ---
 
+## 📈 Atividade de Contribuições
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=claydsonamaral&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=claydsonamaral&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&custom_title=Contribuições%20nos%20últimos%2012%20meses)
+
+</div>
+
+---
+
 ## 🎯 Áreas de Atuação
 
 - 🤖 **Automação de Processos** - RPA, APIs, integrações
