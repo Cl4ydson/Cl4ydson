@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Claydson Amaral
+# 👨🏻‍💻 Claydson Amaral
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gerente+de+Tecnologia+%26+Inova%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es;4%2B+anos+liderando+transforma%C3%A7%C3%A3o+digital;Apaixonado+por+IA+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 
